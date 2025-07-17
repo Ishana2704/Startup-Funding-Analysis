@@ -19,10 +19,10 @@ Welcome to my data analysis project that explores the funding trends in the Indi
 2. Folder Structure
 Indian-Startup-Funding/
 │
-├── IndianStartupFunding.csv # Raw dataset used for analysis
-├── Funding_Analysis.R # Main R script for cleaning, EDA & visualizations
-├── Plots/ # Folder containing saved plots (optional)
-└── README.md # You're here!
+├── dataset_raw.csv : Raw dataset used for analysis
+├── startup_analysis_project.R : Main R script for cleaning, EDA & visualizations
+├── Plots : Folder containing saved plots (optional)
+└── README.md : You're here!
 
 
 3. Tools & Libraries Used
